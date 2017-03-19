@@ -3,6 +3,8 @@
 Silage was one of my favorite bands in the 90's.  Back then I loved building webpages
 and sharing them on Geocities but I never got around to making one for Silage.
 
+[View the latest version of the site here](https://jdodson.github.io/silagefanpage/)
+
 This silage fan page uses:
 * jekyll 3.4.2
 * theme created in Seamonkey Composer & HTML 4
