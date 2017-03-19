@@ -3,6 +3,7 @@ layout: page
 title: The Greatest Silage Fan Page | Disco
 header: Silage Discography
 permalink: /discography.html
+description: A collection of Silage album and single information.
 ---
 
 <h2>Albums</h2>

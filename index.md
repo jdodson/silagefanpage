@@ -5,6 +5,7 @@
 layout: page
 title: The Greatest Silage Fan Page | Main
 header: Welcome To The Page Dedicated To <br>The Greatest Band of All Time Silage!
+description: Silage fan page is a 90's era themed page dedicated to Silage.
 ---
 
 This page is updated all the time so head back often for the latest stuff!
