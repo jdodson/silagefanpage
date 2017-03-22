@@ -1,15 +1,15 @@
 ---
 layout: page
-title: The Greatest Silage Fan Page | My Car Makes Me Sin Record
-header: My Car Makes Me Sin Record
+title: The Greatest Silage Fan Page | My Car Makes Me Sin Vinyl
+header: My Car Makes Me Sin Vinyl
 permalink: /mycarrecord.html
-description: My Car Makes Me Sin single record
+description: My Car Makes Me Sin single vinyl
 ---
 
-<h2>My Car Makes Me Sin Record</h2>
+<h2>My Car Makes Me Sin Vinyl</h2>
 
 <p>
-The My Car Makes Me Sin record was released in 1997 as a limited printing of 250 available only through mail order from Silage management company Straight Up Music.
+The My Car Makes Me Sin vinyl was released in 1997 as a limited printing of 250 available only through mail order from Silage management company Straight Up Music.
 </p>
 
 <img src='images/music/mycarlp/record.jpg' width='300px'>
