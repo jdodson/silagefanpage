@@ -9,18 +9,17 @@ description: A collection of Silage album and single information.
 <h2>Albums</h2>
 <small>Click each album for more information!!</small>
 
-Holy Cow Food Bagman (1995)
+<a href="/bagman.html">Holy Cow Food! Bagman!</a> (1995)
 
-Watusi (1997)
+<a href="/watusi.html">Watusi</a> (1997)
 
-Vegas Car Chasers (1998)
+<a href="/vegas.html">Vegas Car Chasers</a> (1998)
 
 <h2>Compilations / Singles</h2>
 
 Gas Collection Volume 1 (1997)
 "I Love The Radio" (Watusi)
 
-Statements From The Green Planet (1997)
+<a href="/statements.html">Statements From The Green Planet</a> (1997)
 
-My Car Makes Me Sin Vinyl, 7" (1997)<br>
-https://www.discogs.com/Silage-My-Car-Makes-Me-Sin/release/9173324
+<a href="/mycarrecord.html">My Car Makes Me Sin Vinyl, 7"</a> (1997)<br>

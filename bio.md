@@ -3,7 +3,7 @@ layout: page
 title: The Greatest Silage Fan Page | Silage Biography
 header: Silage Biography
 permalink: /bio.html
-description: The Silage biography.
+description: The biography of the band Silage.
 ---
 <div align="left">
 
