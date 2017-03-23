@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Greatest Silage Fan Page | My Car Makes Me Sin Vinyl
+title: Silage Fan Page | My Car Makes Me Sin Vinyl
 header: My Car Makes Me Sin Vinyl
 permalink: /mycarrecord.html
 description: My Car Makes Me Sin single vinyl

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Greatest Silage Fan Page | How Cow Food! Bagman!
+title: Silage Fan Page | How Cow Food! Bagman!
 header: Holy Cow Food! Bagman!
 permalink: /bagman.html
 description: Holy Cow Food! Bagman! Is the first official Silage release.

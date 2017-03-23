@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Greatest Silage Fan Page | Vegas Car Chasers
+title: Silage Fan Page | Vegas Car Chasers
 header: Vegas Car Chasers
 permalink: /vegas.html
 description: Vegas Car Chasers is the third Silage album.
@@ -11,6 +11,8 @@ description: Vegas Car Chasers is the third Silage album.
 <p>
 1998
 </p>
+
+<a href="https://open.spotify.com/album/7e7lVvhktK3wy8Vb2XLq45" target="_blank">You can listen to Vegas Car Chasers on Spotify</a>.
 
 <img src='images/music/vegas/vegas.jpg'>
 <img src='images/music/vegas/vegasart1.jpg'>

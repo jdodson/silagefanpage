@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Greatest Silage Fan Page | Videos
+title: Silage Fan Page | Videos
 header: Silage Makes The Best Videos!
 permalink: /videos.html
 description: Watch all one of best Silage videos ever made!

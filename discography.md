@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Greatest Silage Fan Page | Disco
+title: Silage Fan Page | Disco
 header: Silage Discography
 permalink: /discography.html
 description: A collection of Silage album and single information.
@@ -23,3 +23,5 @@ Gas Collection Volume 1 (1997)
 <a href="statements.html">Statements From The Green Planet</a> (1997)
 
 <a href="mycarrecord.html">My Car Makes Me Sin Vinyl, 7"</a> (1997)<br>
+
+<a href="surfonic.html">Surfonic Water Revival</a> (1998)

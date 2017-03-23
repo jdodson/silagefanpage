@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Greatest Silage Fan Page | Watusi
+title: Silage Fan Page | Watusi
 header: Watusi
 permalink: /watusi.html
 description: Watusi is the first official Silage studio recording on Sublime Records.
@@ -11,6 +11,8 @@ description: Watusi is the first official Silage studio recording on Sublime Rec
 <p>
 1997
 </p>
+
+<a href="https://open.spotify.com/album/2DX8O5jDtosdD2OT3OCi0C" target="_blank">You can listen to Watusi on Spotify</a>.
 
 <img src='images/music/watusi/watusi.jpg' width="300px">
 <img src='images/music/watusi/watusi_cd.jpg' width="300px">

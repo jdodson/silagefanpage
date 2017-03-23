@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Greatest Silage Fan Page | Statements From The Green Planet
+title: Silage Fan Page | Statements From The Green Planet
 header: Statements From The Green Planet
 permalink: /statements.html
 description: Statements From The Green Planet is a Sublime Records sampler released in 1997.
