@@ -18,3 +18,8 @@ Jan 16th New Beginnings Concert @ Dewitt Theater<br>
 February 6th Mt Scott Church of God<br/>
 <img src="images/archive/churchofgod.jpg" width="250px">
 <img src="images/archive/setlist.jpg" width="150px">
+
+<h3>Various Silage Memorabilia</h3>
+
+Silage Skateboard - rare giveaway I always wanted but didn't win.<br>
+<img src="images/archive/silage_skateboard.jpg" width="250px">
