@@ -7,7 +7,7 @@ description: Silage is a great band and history needs to be kept.
 ---
 
 <p>
-Back in the 90's Silage was my favorite band and they still hold a very special place in my heart.  "Silage Fan Page" is an homage to a band I still love and a tongue-in-cheek play on 90's websites I used to build that were terrible.  But weren't all 90's websites terrible?  Hopefully this project captures the nostalgia of the 90's web and some amazing historical beats of Silage, a band that needs to be remembered well into the modern age.
+Back in the 90's Silage was my favorite band and still hold a very special place in my heart.  "Silage Fan Page" is an homage to the band I still love and a tongue-in-cheek send up of 90's websites I used to build that were terrible.  But weren't all 90's websites terrible?  Hopefully this project captures the nostalgia of the 90's web and some amazing historical beats of Silage, a band that needs to be remembered well into the modern age.
 </p>
 
 <p>

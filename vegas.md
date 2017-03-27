@@ -9,7 +9,7 @@ description: Vegas Car Chasers is the third Silage album.
 <h2>Vegas Car Chasers</h2>
 
 <p>
-1998
+Vegas Car Chasers was released November 10th 1998 on Sublime / Essential Records.  Vegas Car Chasers is a departure from the ska and punk fueled Watusi and features a more mature rock sound as seen in the tracks "Billboards," "Why.. Sure" and "Credit Card."
 </p>
 
 <a href="https://open.spotify.com/album/7e7lVvhktK3wy8Vb2XLq45" target="_blank">You can listen to Vegas Car Chasers on Spotify</a>.
@@ -35,7 +35,10 @@ description: Vegas Car Chasers is the third Silage album.
   <li>Vegas Car Chasers</li>
   </ol>
 
-Damian Horne<br>
-Lance Black<br>
-Shane Black
+Damian Horne - Vocals, Guitar, Trombone, Backing Vocals<br>
+Lance Black - Guitar, Vocals, Backing Vocals<br>
+Shane Black - Bass, Backing Vocals<br>
+Chuck Cummings - Drums
 </div>
+
+<a href='https://www.discogs.com/Silage-Vegas-Car-Chasers/release/3045310' target='_blank'>Read more about Vegas Car Chasers on Discogs<a/>.  <a href='http://www.jesusfreakhideout.com/cdreviews/Silage.asp' target='_blank'>Album review on Jesus Freak Hideout</a>.  <a href='http://www.cduniverse.com/search/xx/music/pid/1147089/a/vegas+car+chasers.htm' target='_blank'>Album review on cduniverse</a>.  <a href='http://www.allmusic.com/album/vegas-car-chasers-mw0000044112' target='_blank'>Album review on allmusic<a/>.  <a href='https://albumdujour.wordpress.com/2009/06/30/silage-vegas-car-chasers/' target='_blank'>Album review on Album Du Jour</a>.
