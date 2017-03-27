@@ -17,7 +17,7 @@ title: Silage Fan Page
 email: your-email@domain.com
 description: Silage fan page is a 90's era themed fan page dedicated to the band Silage.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & i protocol for your site, e.g. http://example.com
+url: "https://jdodson.github.io/silagefanpage/" # the base hostname & i protocol for your site, e.g. http://example.com
 image: images/watusi.jpg
 #twitter_username: jekyllrb
 #github_username:  jekyll
