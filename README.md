@@ -3,9 +3,9 @@
 Silage was one of my favorite bands in the 90's.  Back then I loved building webpages
 and sharing them on Geocities but I never got around to making one for Silage.
 
-[View the latest version of the site here](https://jdodson.github.io/silagefanpage/)
+[View the latest version of the site](https://jdodson.github.io/silagefanpage/)
 
-[You can read more about why I did this here](https://medium.com/@jdodson/why-i-created-a-90s-fan-page-for-the-greatest-band-in-the-world-and-wrote-this-think-piece-about-e8b11d21becb)
+[Read more about why I did this](https://medium.com/@jdodson/why-i-created-a-90s-fan-page-for-the-greatest-band-in-the-world-and-wrote-this-think-piece-about-e8b11d21becb)
 
 This silage fan page uses:
 * jekyll 3.4.2
