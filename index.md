@@ -9,7 +9,7 @@ description: Silage fan page is a 90's era themed fan page dedicated to the band
 ---
 
 Thanks for visiting the Silage Fan Page, this page is updated all the time so head
-back often for updates and sign our Guestbook below.
+back often for updates and sign our Guestbook below!
 
 <br>
 <br>
