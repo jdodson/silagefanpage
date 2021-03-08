@@ -8,12 +8,12 @@ and sharing them on Geocities but I never got around to making one for Silage.
 [Read more about why I did this.](https://medium.com/@jdodson/why-i-created-a-90s-fan-page-for-the-greatest-band-in-the-world-and-wrote-this-think-piece-about-e8b11d21becb)
 
 This silage fan page uses:
-* jekyll 3.4.2
+* jekyll
 * theme created in Seamonkey Composer & HTML 4
 
 # setup / requirements
 
-* ruby 2.3.1
+* ruby 2.6.5
 * bundle
 
 # serve the pages and regenerate when there is a change
